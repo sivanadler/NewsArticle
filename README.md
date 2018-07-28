@@ -1,0 +1,1 @@
+This is my news article assignment. In this assignment, I used a variety of HTML and CSS styling and layout elements!
