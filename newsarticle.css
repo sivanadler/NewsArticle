@@ -1,0 +1,61 @@
+h1{
+	text-align: center;
+	padding: 10px;
+}
+
+h4{
+	text-align: center;
+	padding: 10px;
+}
+
+img{
+	width: 100%;
+	float: left;
+	padding: 10px;
+	display: inline-block;
+
+}
+
+#image-caption{
+	font-size: 10px;
+	color: grey;
+	float: left;
+	width: 100%;
+	padding: 10px;
+}
+#author{
+	text-decoration: underline;
+	padding-left: 10px;
+}
+
+#date{
+	color: grey;
+	padding-left: 10px;
+}
+
+a{
+	color: black;
+}
+
+div.row{
+	margin: 10px;
+	padding-left: 10px;
+}
+
+#readmore{
+	color: blue;
+	text-decoration: underline;
+}
+
+#para10{
+	padding: 10px;
+	font-size: 10px;
+}
+
+@media (max-width: 640px){
+	img{
+		display: none;
+	}
+	#image-caption{
+		display: none;
+	}
